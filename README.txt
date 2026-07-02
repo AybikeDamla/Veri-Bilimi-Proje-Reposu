@@ -31,4 +31,13 @@ Projeyi yerel ortamınızda veya Google Colab üzerinde sorunsuz bir şekilde ç
 ### Seçenek B: Yerel Bilgisayarda (Jupyter Notebook) Çalıştırma
 1. **Depoyu Klonlayın:**
    ```bash
-   git clone [https://github.com/](https://github.com/)[KULLANICI_ADIN]/[REPO_ADIN].git
+   git clone https://github.com/AybikeDamla/Veri-Bilimi-Proje-Reposu.git
+
+ Kütüphaneleri Yükleyin: Sisteminizde eksik kütüphane varsa terminal üzerinden yükleyin:
+
+   ```Bash
+   pip install pandas numpy matplotlib seaborn scikit-learn
+
+Veri Seti Konumu: sleep_data.csv dosyasının .ipynb dosyası ile aynı dizinde olduğundan emin olun.
+
+Notebook'u Başlatın: Terminale jupyter notebook yazarak projeyi tarayıcınızda açın ve hücreleri sırasıyla çalıştırın.
