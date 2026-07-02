@@ -10,7 +10,9 @@ Bu proje, 2025-2026 Bahar dönemi Veri Bilimi dersi final projesi kapsamında "V
 ## 🗂️ Veri Kaynağı ve Lisans
 * **Veri Seti Adı:** Sleep Health and Lifestyle Dataset
 * **Kaynak:** Kaggle
-* **Lisans:** CC0: Public Domain (Açık Kamu Malı Lisansı) - Veri seti tamamen açık kaynaklıdır, anonimleştirilmiştir ve akademik/ticari kullanıma uygundur.
+* **Veri Seti Lisansı:** Kaggle CC0: Public Domain (Açık Kamu Malı Lisansı)
+* **Kaynak Kod Lisansı:** MIT License - Bu repodaki veri ön işleme ve makine öğrenmesi kodları MIT lisansı altında açık kaynak olarak paylaşılmıştır.
+
 
 ## 🛠️ Kullanılan Kütüphaneler
 Projenin geliştirilme sürecinde aşağıdaki Python kütüphanelerinden faydalanılmıştır:
