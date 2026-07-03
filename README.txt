@@ -3,8 +3,8 @@
 Bu proje, 2025-2026 Bahar dönemi Veri Bilimi dersi final projesi kapsamında "Vibe Coding" metodolojisi kullanılarak geliştirilmiştir. Çalışmada bireylerin yaşam tarzı ve fizyolojik verileri incelenerek, uyku bozukluklarının (Sleep Apnea, Insomnia) tahmin edilmesine yönelik bir makine öğrenmesi modeli inşa edilmiştir.
 
 ## 👨‍💻 Proje Ekibi
-* **Adı Soyadı:** Damla [Soyadını Buraya Yaz]
-* **Öğrenci Numarası:** [Öğrenci Numaranı Buraya Yaz]
+* **Adı Soyadı:** Damla AYDOĞDU 
+* **Öğrenci Numarası:** 1306210088
 * **Bölüm:** Bilgisayar Mühendisliği
 
 ## 🗂️ Veri Kaynağı ve Lisans
